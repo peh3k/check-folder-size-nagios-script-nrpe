@@ -1,3 +1,4 @@
+#Ex use: check_folder_size.vbs "C:\tmp" 300 780
 Dim size_b, file_system, folder, size, critical, warning
 Dim strfolder, new_str_folder
 
